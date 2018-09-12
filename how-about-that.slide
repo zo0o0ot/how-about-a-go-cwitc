@@ -3,16 +3,16 @@
 # The first non-blank non-comment line is the title.
 # The subtitle, date, and tags lines are optional.
 How about a Go?
-That Conference
-6 Aug 2018
-Tags: golang, ThatConference, projects
+Central Wisconsin IT Conference
+6 Oct 2018
+Tags: golang, CWITC, projects
 : Welcome to my session.
 
 
 Ross Larson
 Software Developer, WTS Paradigm
 rosslarson@gmail.com
-http://about.me/rosslarson
+http://rosslarson.com
 @rosslarsonWI
 : GitHub repo for this presentation - https://github.com/zo0o0ot/how-about-a-go
 
