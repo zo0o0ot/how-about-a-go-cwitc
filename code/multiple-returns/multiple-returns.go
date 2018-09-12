@@ -7,11 +7,11 @@ func randomishNumber() int {
 }
 
 func callAndResponse() string {
-	return "That"
+	return "Stevens"
 }
 
 func instructions() (string, string) {
-	return "When I say That,", "You say Conference"
+	return "When I say Stevens,", "You say Point"
 }
 
 func main() {
